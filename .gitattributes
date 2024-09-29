@@ -1,3 +1,2 @@
 models[[:space:]]-[[:space:]]checkpoint[[:space:]]50.zip filter=lfs diff=lfs merge=lfs -text
 models[[:space:]]-[[:space:]]checkpoint[[:space:]]96.zip filter=lfs diff=lfs merge=lfs -text
-data.zip filter=lfs diff=lfs merge=lfs -text
